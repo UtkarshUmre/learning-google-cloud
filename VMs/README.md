@@ -1,5 +1,5 @@
 # Understanding Virtual Machines
-<img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/what-is-a-virtual-machine_overview-img?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=1280&hei=431&qlt=95" width="" height="">
+<a href="https://ibb.co/CMg4y3J"><img src="https://i.ibb.co/JyV8Twx/what-is-a-virtual-machine-overview-img-removebg-preview.png" alt="what-is-a-virtual-machine-overview-img-removebg-preview" border="0"></a>
 
 Virtual machines (VMs) are software-based emulations of physical computers, capable of running their own operating systems and applications as if they were separate physical machines. They operate within an isolated environment created by virtualization software known as a hypervisor.
 ## How Virtual Machines Work
@@ -41,4 +41,3 @@ Virtual machines (VMs) are software-based emulations of physical computers, capa
 ## Conclusion
 
 Virtual machines revolutionized computing by offering greater flexibility, cost savings, and efficiency in managing IT resources. They enable the creation of versatile environments, allowing businesses to operate multiple operating systems and applications efficiently within a single physical machine.
-
